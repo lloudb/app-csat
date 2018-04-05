@@ -1,0 +1,34 @@
+[
+  {
+    "to":"osnovnaja-informacija",
+    "name":"Основная информация"
+  },
+  {
+    "to":"oborudovanie",
+    "name":"Оборудование"
+  },
+  {
+    "to":"Dogovory-i-oplaty",
+    "name":"Договоры и оплаты"
+  },
+  {
+    "to":"kontakty",
+    "name":"Контакты"
+  },
+  {
+    "to":"kommercheskie-predlozhenija-i-smety",
+    "name":"Коммерческие предложения и сметы"
+  },
+  {
+    "to":"Istorija",
+    "name":"История"
+  },
+  {
+    "to":"akty-obsledovanij",
+    "name":"Акты обследований"
+  },
+  {
+    "to":"sobytija-grafika",
+    "name":"События графика"
+  }
+]
