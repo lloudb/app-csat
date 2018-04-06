@@ -1,7 +1,6 @@
 import React from 'react';
 import Card from './Card.js';
 import item from './item.json';
-import Buttons from './Buttons';
 
 class Objects extends React.Component {
     render() {
