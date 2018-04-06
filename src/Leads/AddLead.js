@@ -50,7 +50,7 @@ class AddLead extends React.Component {
                             </select>
                         </div>
                     </div>
-                </div>
+                </div>  
                 <div className="columns is-centered">
                     <div className="column is-narrow">
                         <a href="/leads" className="button">Отправить</a>
